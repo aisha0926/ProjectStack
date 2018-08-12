@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ProjectV2.ProjectSQL.ProjectSqlApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.644 sec - in com.ProjectV2.ProjectSQL.ProjectSqlApplicationTests
