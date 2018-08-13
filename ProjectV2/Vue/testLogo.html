@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="vue.js"></script>
+</head>
+<body>
+<div id="growler">
+    <img alt="Growler"
+         :src="appLogo"/>
+</div>
+
+</body>
+<script type="text/javascript">
+    var growler = new Vue({
+        el: '#Growler',
+        data: {
+            appName: 'Growler',
+            message: 'THIS IS A MESSAGE',
+            appLogo: '/Users/Aisha/Pictures'
+        }
+    });
+</script>
+
+</html>
+
+
